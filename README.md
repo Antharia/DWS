@@ -11,3 +11,7 @@ You'll also need Geckodriver, a Firefox binary.
 
 :warning: Warning !
 TODO : use Tor Browser with Selenium.
+
+## Usage
+
+    python main.py [url] [HTML class]
