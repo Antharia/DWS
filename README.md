@@ -1,13 +1,13 @@
 # DWS
-Dark web scraping
+Dark web scraping.
 
 Based on this [article](https://towardsdatascience.com/how-to-scrape-the-dark-web-53145add7033).
 
-## Dependencies
+## Requirements
 
-Pandas, Selenium
+    pip install -r requirements.txt
 
 You'll also need Geckodriver, a Firefox binary.
 
-Warning !
+:warning: Warning !
 TODO : use Tor Browser with Selenium.
